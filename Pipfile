@@ -12,6 +12,7 @@ numpy = "*"
 pandas = "*"
 scikit-learn = "*"
 joblib = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
